@@ -11,11 +11,9 @@ formatDate(dateString) {
 }
 ```
 
-![Placeholder Kitten](https://placekitten.com/800/400)
+![Placeholder Kitten](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/218620/e028179e9fc4d9f412f0e1faf4a86bd591e6fded.jpg)
 
-### Steps to take:
-
-1. **Go to admin:** You can navigate to the admin-page by typing in `/admin` after the URL your browser’s omnibox above.
+### Wolfs origins
 
 2. **Navigate to Blog:** In blog you can edit existing blog posts like this one, remove it, or create new ones. They’ll be added to a pull request by Netlify CMS that you merge in the next step by saving.
 
