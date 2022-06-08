@@ -1,11 +1,13 @@
 ---
-createdAt: 2021-02-28
-title: Easy excerpt from content
+createdAt: 2011-02-28
+title: Dallas.
+description: The face everyone fears
 ---
 
 You can add an excerpt easily by writing `<!--MORE-->` in lowercase in the content.
 
 <!--more-->
+
 (It is written right before this)
 
 Then continue on with the rest of the **markdown** content.
