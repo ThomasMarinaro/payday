@@ -1,7 +1,7 @@
 ---
 createdAt: 2021-02-18
 title: Wolf.
-description: '"Let's get it on."'
+description: 'And Wolf... Stay off the dance floor.'
 ---
 
 ```js{1,4}[posts.vue]

@@ -1,7 +1,7 @@
 ---
 createdAt: 2021-03-01
 title: Chains.
-description: '"Dont be tricky... Chains hates tricky."'
+description: 'Dont be tricky... Chains hates tricky.'
 ---
 
 ```js{1,4}[posts.vue]
